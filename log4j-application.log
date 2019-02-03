@@ -1,0 +1,16 @@
+2019-02-03 18:46:01 INFO  LogFileAnalyser:23 - The log file processing stated for event analysis, file name : testFile.txt
+2019-02-03 18:46:01 INFO  FileProcessingServiceImpl:78 - Parsing the file:testFile.txt
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: scsmbstgra
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: scsmbstgrb
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: scsmbstgrc
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: scsmbstgra
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: scsmbstgrc
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: scsmbstgrb
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: abc
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: xyz
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: lmn
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: abc
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: lmn
+2019-02-03 18:46:01 DEBUG FileProcessingServiceImpl:108 - Processing event id: xyz
+2019-02-03 18:46:01 INFO  LogFileAnalyser:32 - Log file analyser job completed in  138 ms
+2019-02-03 18:46:01 INFO  LogFileAnalyser:34 - File processing response: File processed successfully
